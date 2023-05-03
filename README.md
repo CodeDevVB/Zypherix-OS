@@ -6,7 +6,7 @@
 ## How it started
 I was thinking of making an operating system as a timepass. It was meant to be similiar to linux kernel, almost replicating all commands. Even using the same structure of user management and graphical interfaces like how you use a command to "execute" the window manager/desktop environment.
 
-## What all has been implemented
+## What all has been implemented (features)
 1. A proper file system
 2. Command management
 3. Memory leak fixing
@@ -16,7 +16,7 @@ I was thinking of making an operating system as a timepass. It was meant to be s
 7. Linux-like root and user management
 8. (STILL TESTING) Proper argument management with commands
 
-## What all is planned
+## What all is planned (on the line to become a feature)
 1. Stable window manager (like the ones that only use keyboard but still have mouse like i3)
 2. Perfect keyboard based gui, mouse only to navigate between open window
 3. GUI Web Browser
