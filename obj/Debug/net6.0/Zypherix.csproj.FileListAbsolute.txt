@@ -1,0 +1,14 @@
+C:\Users\praty\source\repos\Zypherix\Zypherix\bin\Debug\net6.0\Zypherix.deps.json
+C:\Users\praty\source\repos\Zypherix\Zypherix\bin\Debug\net6.0\Zypherix.dll
+C:\Users\praty\source\repos\Zypherix\Zypherix\bin\Debug\net6.0\Zypherix.pdb
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.csproj.AssemblyReference.cache
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.AssemblyInfoInputs.cache
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.AssemblyInfo.cs
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.csproj.CoreCompileInputs.cache
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.dll
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\refint\Zypherix.dll
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.pdb
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\ref\Zypherix.dll
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.Properties.Resources.resources
+C:\Users\praty\source\repos\Zypherix\Zypherix\obj\Debug\net6.0\Zypherix.csproj.GenerateResource.cache
