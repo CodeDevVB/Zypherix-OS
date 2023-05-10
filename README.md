@@ -1,7 +1,9 @@
 
-# Zypherix-OS
+# Zypherix-OS (ABANDONED)
 
-> Advanced Operating System based on Cosmos Project. Trying to be linux.
+> Advanced Operating System based on Cosmos Project. Trying to be linux. (ABANDONED)
+
+## NOTE : This project is abandoned. The code became too messy so I am making a new project. Link - https://github.com/CodeDevVB/PolipusOS (PolipusOS)
 
 ## How it started
 I was thinking of making an operating system as a timepass. It was meant to be similiar to linux kernel, almost replicating all commands. Even using the same structure of user management and graphical interfaces like how you use a command to "execute" the window manager/desktop environment.
